@@ -108,6 +108,5 @@ Implemented the multi-level feedback queue scheduler in `proc.c` file. We make 4
 
 ![alt text](mlfq_timeline_graph.png)
 
-# Networking
 
 
